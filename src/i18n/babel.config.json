@@ -1,0 +1,15 @@
+// i18n/babel.config.json
+{
+  "presets": ["next/babel"],
+  "plugins": [
+    [
+      "i18next-extract",
+      {
+        "locales": ["en", "ja"],
+        "outputPath": "src/i18n/locales/{{locale}}.json",
+        "discardOldKeys": false,
+        "keySeparator": null
+      }
+    ]
+  ]
+}

@@ -1,0 +1,7 @@
+module.exports = {
+    i18n: {
+      defaultLocale: 'ja',
+      locales: ['en', 'ja'],
+      localeDetection: true,
+    },
+  };

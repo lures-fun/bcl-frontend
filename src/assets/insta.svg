@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="37.45" height="40.031" viewBox="0 0 37.45 40.031">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.146" y1="0.146" x2="0.854" y2="0.854" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fae100"/>
+      <stop offset="0.15" stop-color="#fcb720"/>
+      <stop offset="0.3" stop-color="#ff7950"/>
+      <stop offset="0.5" stop-color="#ff1c74"/>
+      <stop offset="1" stop-color="#6c1cd1"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2" transform="translate(0.076 0.08)">
+    <g id="Circle" transform="translate(-0.076 -0.08)">
+      <g id="_03.Instagram" data-name="03.Instagram" transform="translate(0)">
+        <rect id="Background" width="37.398" height="39.974" rx="18.699" transform="translate(0.052 0.057)" fill="url(#linear-gradient)"/>
+        <g id="グループ_1068" data-name="グループ 1068">
+          <path id="Shade" d="M32.515,6.847A71.118,71.118,0,0,1,21.21,22.886,66.965,66.965,0,0,1,6.356,35.08q-.466-.437-.905-.911a21.15,21.15,0,0,1-.006-28.3,17.6,17.6,0,0,1,26.227,0q.436.477.842.987Z" transform="translate(-0.016 0)" fill="#fff" opacity="0.1"/>
+          <g id="Icon" transform="translate(6.9 9.481)">
+            <path id="パス_6189" data-name="パス 6189" d="M51.275,36H41.794A5.794,5.794,0,0,0,36,41.794v9.481a5.794,5.794,0,0,0,5.794,5.794h9.481a5.794,5.794,0,0,0,5.794-5.794V41.794A5.794,5.794,0,0,0,51.275,36Zm3.95,14.443a4.783,4.783,0,0,1-4.783,4.783H42.626a4.783,4.783,0,0,1-4.783-4.783V42.626a4.783,4.783,0,0,1,4.783-4.783h7.817a4.783,4.783,0,0,1,4.783,4.783Z" transform="translate(-36 -36)" fill="#fff"/>
+            <path id="パス_6190" data-name="パス 6190" d="M64.829,56.971l-.05-.05-.042-.042a5.309,5.309,0,0,0-3.75-1.549,5.4,5.4,0,0,0-5.367,5.444,5.465,5.465,0,0,0,1.58,3.848A5.317,5.317,0,0,0,61,66.2a5.459,5.459,0,0,0,3.832-9.231Zm-3.842,7.374a3.571,3.571,0,1,1,3.521-3.571A3.571,3.571,0,0,1,60.987,64.345Z" transform="translate(-50.452 -50.239)" fill="#fff"/>
+            <path id="パス_6191" data-name="パス 6191" d="M95.293,50.77a1.285,1.285,0,0,1-1.277,1.3,1.267,1.267,0,0,1-.9-.377,1.3,1.3,0,0,1,.9-2.21,1.27,1.27,0,0,1,.814.3l.026.026a.8.8,0,0,1,.116.116l.029.032a1.3,1.3,0,0,1,.29.822Z" transform="translate(-77.798 -45.93)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
